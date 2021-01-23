@@ -1,2 +1,2 @@
 # aarifshuvo.github.io
-github page test!  
+github pages test!  
